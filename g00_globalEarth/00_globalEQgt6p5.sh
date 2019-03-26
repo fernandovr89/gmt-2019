@@ -1,6 +1,6 @@
 #!/bin/sh
 
-outfile="test.ps"
+outfile="globalEQgt6p5.ps"
 range="-R-15/345/-75/75"
 proj="-JM10c" 
 frames="-Bxa45 -Bya20"
